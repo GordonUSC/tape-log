@@ -1,6 +1,6 @@
 # The Tape Log
 
-Gordon Bellamy has been a contestant on eight television game shows across fourteen years. He won two.
+Gordon Bellamy has been a contestant on nine television game shows across fourteen years. He won three.
 
 This is that record, built as a game show. You can play his actual rounds.
 
@@ -21,13 +21,16 @@ This is that record, built as a game show. You can play his actual rounds.
 | 01 | The Weakest Link | NBC | 30 Jul 2001 | Lost |
 | 02 | Taboo | TNN | 2002 | Lost |
 | 03 | Russian Roulette | GSN | 4 Jun 2002 | **Won $3,950** |
-| 04 | Merv Griffin's Crosswords | Syndicated | 18 Sep 2008 | Lost |
-| 05 | Trivial Pursuit: America Plays | Syndicated | 23 Sep 2008 | Lost |
-| 06 | Million Dollar Mind Game | ABC | Oct/Nov 2011 | Lost $600,000 |
-| 07 | The Chase | GSN | 26 Aug 2014 | Lost |
-| 08 | Celebrity Name Game | Syndicated | 19 Oct 2015 | **Won $2,200** |
+| 04 | Starface | GSN | 8 Sep 2006 | **Won $900** |
+| 05 | Merv Griffin's Crosswords | Syndicated | 18 Sep 2008 | Lost |
+| 06 | Trivial Pursuit: America Plays | Syndicated | 23 Sep 2008 | Lost |
+| 07 | Million Dollar Mind Game | ABC | Oct/Nov 2011 | Lost $600,000 |
+| 08 | The Chase | GSN | 26 Aug 2014 | Lost |
+| 09 | Celebrity Name Game | Syndicated | 19 Oct 2015 | **Won $2,200** |
 
-His own lifetime count is eleven, so eight is the floor rather than the ceiling.
+His own lifetime count is eleven, so nine is the floor rather than the ceiling.
+
+Starface was found on 13 August 2026 in a Game Show NewsNet recap that names him outright: "Gordon Bellamy, video game consultant from Reston, VA, rode an elevator with Greg Brady." He beat Julia Surr and Nicole Navarro 1300 to 850 to 450, then took the bonus round nine questions deep before missing the tenth on the buzzer.
 
 ## How it was verified
 
